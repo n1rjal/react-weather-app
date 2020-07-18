@@ -2,7 +2,7 @@ import React from "react";
 
 class searchBar extends React.Component {
   state = {
-    appid: "78479a389deda51cc993958e10492f19",
+    appid: "SECRET KEY",
     url: "https://api.openweathermap.org/data/2.5/weather",
     data: {},
     place:
