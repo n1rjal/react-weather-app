@@ -1,6 +1,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Deployed [here](https://n1rjal.github.io/react-weather-app/)
+<br>
+>Deployed [here](https://n1rjal.github.io/react-weather-app/)
 
 ## Available Scripts
 
